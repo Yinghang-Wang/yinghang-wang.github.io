@@ -84,6 +84,9 @@
           {% if education.gpa %}
           <div class="cv-item-detail">GPA: {{ education.gpa }}</div>
           {% endif %}
+          {% if education.thesis %}
+          <div class="cv-item-detail">{{ education.thesis }}</div>
+          {% endif %}
           {% if education.courses.size > 0 %}
           <div class="cv-item-detail">
             <strong>Courses:</strong> {{ education.courses | join: ", " }}
@@ -126,6 +129,25 @@
   </div>
   {% endif %}
   
+  {% if cv.awards.size > 0 %}
+  <!-- Honors and Awards -->
+  <div class="cv-section">
+    <h2>Honors and Awards</h2>
+    <ul class="cv-list">
+      {% for award in cv.awards %}
+      <li class="cv-item">
+        <div class="cv-item-content">
+          <div class="cv-item-title">{{ award.name }}</div>
+          {% if award.date %}
+          <div class="cv-item-detail">{{ award.date }}</div>
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
   {% if cv.skills.size > 0 %}
   <!-- Skills -->
   <div class="cv-section">

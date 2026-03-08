@@ -1,152 +1,175 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Yinghang Wang",
+    "email": "yinghangwang@stu.pku.edu.cn",
+    "phone": "(+86)15979721819",
+    "website": "https://yinghang-wang.github.io",
+    "summary": "M.S. candidate in Environmental Sciences at Peking University. Research interests: environmental modeling, air quality, geographic information science, and remote sensing.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "address": "5 Yiheyuan Road, Yanyuan Subdistrict, Haidian District",
+      "postalCode": "100871",
+      "city": "Beijing",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "yinghang-wang",
+        "url": "https://github.com/yinghang-wang"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "company": "College of Urban and Environmental Sciences, Peking University",
+      "position": "Optimization of a Two-Step Reduced-Form Model for Ambient PM2.5 in China",
+      "startDate": "Oct. 2023",
+      "endDate": "Present",
+      "summary": "The reduced-form model (RFM) serves as a simplified method to estimate ambient pollutant emissions. PM2.5 concentrations were estimated for three scenarios from 1960 to 2021 using CMAQ.",
+      "highlights": [
+        "The two-step method represents the significance of emission and meteorological factors respectively. The optimal meteorology year was determined under fixed-emission situation.",
+        "Regression model was established between PM2.5 concentration and four main affecting pollutant emissions (Primary PM2.5, SO2, NH3, NOx) under fixed-meteorology situation.",
+        "Optimization targets spatial discontinuity and negative effects in the regression compared with present RFMs. Generated an initial background PM2.5 concentration baseline as an intercept to resolve spatial discontinuity and applied constrained regression to eliminate the negative impact."
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "company": "Peking University",
+      "position": "Updating the Emission Data from 2020 to 2021 of GEMS (Global Emission Modeling System)",
+      "startDate": "Dec. 2023",
+      "endDate": "Jun. 2024",
+      "summary": "Familiar with the bottom-up method to compile emission inventory. Emission estimation data was calculated as products of source strength and Emission Factors (EFs), with 225 countries, 9 sectors, 146 sources, and 49 pollutants.",
+      "highlights": [
+        "Estimated EFs and emissions by country, used Monte Carlo simulation to represent uncertainty.",
+        "Conducted spatial interpolation of emission data to generate open-source files with 0.1° resolution in both latitude and longitude."
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "Wuhan University",
+      "position": "The Key Technologies of Geological Disaster Dynamic Monitoring Based on Nap-of-the-object Photogrammetry",
+      "startDate": "Jul. 2021",
+      "endDate": "Oct. 2022",
+      "summary": "Reconstructed detailed fine 3D real scene model based on multi-period nap-of-the-object photogrammetry. Detected deformation of geological hazards based on 3D model differential analysis.",
+      "highlights": [
+        "Proposed a fast and simple method to locate severely deformed areas caused by collapse and landslide hazards.",
+        "Produced high-resolution generalized orthophotos and calculated precise displacement of deformation by feature matching. This work formed the basis of undergraduate thesis and resulted in a conference publication."
+      ]
+    },
+    {
+      "company": "School of Remote Sensing and Information Engineering, Wuhan University",
+      "position": "Innovation Practice and Youth Development Office | Head of Office",
+      "startDate": "Sep. 2019",
+      "endDate": "Jun. 2020",
+      "summary": "Organized registration and training for the Winter & Summer Social Practice programs. Developed Cloud Laboratory program during the pandemic, delivering online lectures on cutting-edge research topics.",
+      "highlights": []
+    },
+    {
+      "company": "School of Remote Sensing and Information Engineering, Wuhan University",
+      "position": "Innovation Practice and Youth Development Office | Staff Member",
+      "startDate": "Sep. 2018",
+      "endDate": "Jun. 2019",
+      "summary": "Organized Explore the Laboratory program for freshmen and sophomores. Collected research projects from all professors and published Research Handbook.",
+      "highlights": []
+    },
+    {
+      "company": "2018 International Workshop on Big Geospatial Data and Data Science, Wuhan, China",
+      "position": "Volunteer",
+      "startDate": "Aug. 2018",
+      "endDate": "Aug. 2018",
+      "summary": "Designed and placed directional signage; assisted with reception and guided tours, prepared materials, and addressed basic infrastructure-related inquiries.",
+      "highlights": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "education": [
+    {
+      "institution": "Peking University, Beijing, China",
+      "area": "M.S., Environmental Sciences",
+      "studyType": "Master",
+      "startDate": "2023",
+      "endDate": "2026 (Expected)",
+      "gpa": "3.51/4.0 (84.3/100)",
+      "courses": [],
+      "thesis": "Advisor: Prof. Shu Tao"
+    },
+    {
+      "institution": "Wuhan University, Hubei, China",
+      "area": "B.E., Remote Sensing Science and Technology",
+      "studyType": "Bachelor",
+      "startDate": "2018",
+      "endDate": "2022",
+      "gpa": "3.34/4.0 (83.8/100)",
+      "courses": [],
+      "thesis": "Advisor: Prof. Yansong Duan. Thesis: The technologies of geological disaster dynamic monitoring based on nap-of-the-object photogrammetry"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["Proficient in MATLAB, Python", "Good at R", "Familiar with C++"]
+    },
+    {
+      "name": "Professional Software",
+      "keywords": ["ArcGIS", "QGIS"]
+    },
+    {
+      "name": "Language Skills",
+      "keywords": ["Fluent in Chinese (native)", "English (TOEFL score: 93, R:30, L:20, S:22, W:21)"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent (TOEFL 93)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Environmental Science",
+        "Geographic Information Science and Spatial Analysis",
+        "Environmental Modelling (Air Quality Models, Chemical Transport Models)",
+        "Air Pollutant Estimation and Climate Effect",
+        "Geographic Hazards and Deformation Monitoring",
+        "Remote Sensing and Photogrammetry"
+      ]
+    }
+  ],
+  "awards": [
+    { "name": "National Encouragement Scholarship, China", "date": "2022" },
+    { "name": "Excellent Student, Wuhan University, China", "date": "2022" },
+    { "name": "Second Prize (top 15%), MathorCup University Mathematical Modeling Challenge, China", "date": "2021" },
+    { "name": "Honorable Mention (top 15.35%), The Interdisciplinary Contest in Modeling (ICM), COMAP, U.S.A.", "date": "2021" },
+    { "name": "Outstanding Student Scholarship (grade 3, top 30%), Wuhan University, China", "date": "2021" },
+    { "name": "Excellent Student Cadre, Wuhan University, China", "date": "2021" },
+    { "name": "Finalist (top 0.17%), The Mathematical Contest in Modeling (MCM), COMAP, U.S.A.", "date": "2020" },
+    { "name": "Award for Outstanding Contribution to Social Activities, Wuhan University, China", "date": "2020" },
+    { "name": "Award for Outstanding Contribution to Social Activities, School of Remote Sensing and Information Engineering, Wuhan University, China", "date": "2020" },
+    { "name": "Excellent Student, Wuhan University, China", "date": "2019" },
+    { "name": "Outstanding Student Scholarship (grade 2, top 20%), Wuhan University, China", "date": "2019" }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Wang, Y., Shen, G., & Tao, S.* An optimized two-step reduced-form model for ambient PM2.5 in China.",
+      "publisher": "Manuscript in Preparation.",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Wang, Y., Duan, Y.*, Pang, B., & Liu, R. (2022). The key technologies of geological disaster dynamic monitoring based on nap-of-the-object photogrammetry.",
+      "publisher": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 10, 171-176.",
+      "releaseDate": "2022",
+      "website": "",
+      "summary": ""
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
