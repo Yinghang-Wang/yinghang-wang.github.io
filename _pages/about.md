@@ -13,15 +13,15 @@ I am an M.S. candidate in **Environmental Sciences** at **Peking University** (A
 
 ## Research Interests
 
-- **Environmental Science** and **Geographic Information Science**
-- **Environmental Modelling** (Air Quality Models, Chemical Transport Models)
-- **Air Pollutant Estimation** and Climate Effect
-- **Geographic Hazards** and Deformation Monitoring
-- **Remote Sensing** and Photogrammetry
+- **Environmental Modelling** · **Geographic Information Science**
+- **Disaster Monitoring** · **Autonomous GIS with LLMs**
+- **Remote Sensing and Photogrammetry** · **Geospatial Artificial Intelligence (GeoAI)**
 
-## Current Work
+## Language & Skills
 
-My current research focuses on **optimizing a two-step reduced-form model for ambient PM2.5 in China**, using CMAQ to estimate PM2.5 concentrations from 1960 to 2021 and to distinguish the effects of emissions and meteorological factors. I am also experienced in emission inventory compilation (e.g., GEMS) and in nap-of-the-object photogrammetry for geological hazard monitoring.
+- **Programming Languages:** Proficient in MATLAB, Python; Good at R; Familiar with C++.
+- **Professional Software:** Good at ArcGIS, QGIS.
+- **Language Skills:** Fluent in Chinese (native) and English (TOEFL score: 93, R: 30, L: 20, S: 22, W: 21).
 
 ## Contact
 
@@ -29,4 +29,4 @@ My current research focuses on **optimizing a two-step reduced-form model for am
 - **Address:** College of Urban and Environmental Sciences, Peking University, 5 Yiheyuan Road, Haidian District, Beijing 100871, China  
 - **Tel:** (+86) 15979721819  
 
-For more details, please see my [CV](/cv/) and [Publications](/publications/).
+For more details, please see my [CV](/files/cv.pdf) and [Publications](/publications/).

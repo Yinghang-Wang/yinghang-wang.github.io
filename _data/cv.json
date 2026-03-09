@@ -4,7 +4,7 @@
     "email": "yinghangwang@stu.pku.edu.cn",
     "phone": "(+86)15979721819",
     "website": "",
-    "summary": "M.S. candidate in Environmental Sciences at Peking University. Research: environmental modeling, air quality, geographic information science, and remote sensing.",
+    "summary": "M.S. candidate in Environmental Sciences at Peking University.",
     "location": {
       "address": "5 Yiheyuan Road, Yanyuan Subdistrict, Haidian District",
       "postalCode": "100871",
@@ -124,12 +124,12 @@
     {
       "name": "Research Interests",
       "keywords": [
-        "Environmental Science",
-        "Geographic Information Science and Spatial Analysis",
-        "Environmental Modelling (Air Quality Models, Chemical Transport Models)",
-        "Air Pollutant Estimation and Climate Effect",
-        "Geographic Hazards and Deformation Monitoring",
-        "Remote Sensing and Photogrammetry"
+        "Environmental Modelling",
+        "Geographic Information Science",
+        "Disaster Monitoring",
+        "Autonomous GIS with LLMs",
+        "Remote Sensing and Photogrammetry",
+        "Geospatial Artificial Intelligence (GeoAI)"
       ]
     }
   ],
