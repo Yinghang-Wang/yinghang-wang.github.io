@@ -3,7 +3,7 @@
     "name": "Yinghang Wang",
     "email": "yinghangwang@stu.pku.edu.cn",
     "phone": "(+86)15979721819",
-    "website": "https://yinghang-wang.github.io",
+    "website": "",
     "summary": "M.S. candidate in Environmental Sciences at Peking University. Research interests: environmental modeling, air quality, geographic information science, and remote sensing.",
     "location": {
       "address": "5 Yiheyuan Road, Yanyuan Subdistrict, Haidian District",
@@ -12,13 +12,7 @@
       "countryCode": "China",
       "region": ""
     },
-    "profiles": [
-      {
-        "network": "GitHub",
-        "username": "yinghang-wang",
-        "url": "https://github.com/yinghang-wang"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
