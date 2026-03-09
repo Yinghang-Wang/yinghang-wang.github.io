@@ -16,7 +16,7 @@
   },
   "work": [
     {
-      "company": "College of Urban and Environmental Sciences, Peking University",
+      "company": "Peking University",
       "position": "Optimization of a Two-Step Reduced-Form Model for Ambient PM2.5 in China",
       "startDate": "Oct. 2023",
       "endDate": "Present",
@@ -34,8 +34,8 @@
       "endDate": "Jun. 2024",
       "summary": "Though this project, I am familiar with the bottom-up method to compile emission inventory. Emission estimation data was calculated as products of source strength and Emission Factors (EFs), with 225 countries, 9 sectors, 146 sources, and 49 pollutants.",
       "highlights": [
-        "I Estimated EFs and emissions by country, used Monte Carlo simulation to represent uncertainty.",
-        "I Conducted spatial interpolation of emission data to generate open-source files with 0.1° resolution in both latitude and longitude."
+        "I estimated EFs and emissions by country, used Monte Carlo simulation to represent uncertainty.",
+        "I conducted spatial interpolation of emission data to generate open-source files with 0.1° resolution in both latitude and longitude."
       ]
     },
     {
@@ -45,8 +45,8 @@
       "endDate": "Oct. 2022",
       "summary": "Though this project, I reconstructed detailed fine 3D real scene model based on multi-period nap-of-the-object photogrammetry. Detected deformation of geological hazards based on 3D model differential analysis.",
       "highlights": [
-        "I Proposed a fast and simple method to locate severely deformed areas caused by collapse and landslide hazards.",
-        "I Produced high-resolution generalized orthophotos and calculated precise displacement of deformation by feature matching. This work formed the basis of undergraduate thesis and resulted in a conference publication."
+        "I proposed a fast and simple method to locate severely deformed areas caused by collapse and landslide hazards.",
+        "I produced high-resolution generalized orthophotos and calculated precise displacement of deformation by feature matching. This work formed the basis of undergraduate thesis and resulted in a conference publication."
       ]
     },
     {
@@ -56,8 +56,8 @@
       "endDate": "Jun. 2020",
       "summary": "",
       "highlights": [
-        "I Organized registration and training for the Winter & Summer Social Practice programs.",
-        "I Developed Cloud Laboratory program during the pandemic, delivering online lectures on cutting-edge research topics."]
+        "I organized registration and training for the Winter & Summer Social Practice programs.",
+        "I developed Cloud Laboratory program during the pandemic, delivering online lectures on cutting-edge research topics."]
     },
     {
       "company": "School of Remote Sensing and Information Engineering, Wuhan University",
@@ -66,8 +66,8 @@
       "endDate": "Jun. 2019",
       "summary": "",
       "highlights": [
-        "I Organized Explore the Laboratory program for freshmen and sophomores.",
-        "I Collected research projects from all professors and published Research Handbook."]
+        "I organized Explore the Laboratory program for freshmen and sophomores.",
+        "I collected research projects from all professors and published Research Handbook."]
     },
     {
       "company": "2018 International Workshop on Big Geospatial Data and Data Science, Wuhan, China",
@@ -76,8 +76,8 @@
       "endDate": "Aug. 2018",
       "summary": "",
       "highlights": [
-        "I Designed and placed directional signage;",
-        "I Assisted with reception and guided tours, prepared materials, and addressed basic infrastructure-related inquiries."]
+        "I designed and placed directional signage;",
+        "I assisted with reception and guided tours, prepared materials, and addressed basic infrastructure-related inquiries."]
     }
   ],
   "education": [
