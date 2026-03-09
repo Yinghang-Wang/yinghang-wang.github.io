@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an M.S. candidate in **Environmental Sciences** at **Peking University** (Advisor: [Prof. Shu Tao](http://www.urban.pku.edu.cn/english/faculty/taoshu/index.htm)). I received my B.E. in **Remote Sensing Science and Technology** from **Wuhan University** in 2022 (Advisor: Prof. Yansong Duan).
+Hi, I'm **Yinghang Wang**. Welcome to my homepage.
+
+I am an M.S. candidate in **Environmental Sciences** at **Peking University** (Advisor: [Prof. Shu Tao](https://ues.pku.edu.cn/Home/Teacher_Home/Shu_Tao/6ae0f9de8653422fa886f6cde9e65950.htm)). I received my B.E. in **Remote Sensing Science and Technology** from **Wuhan University** in 2022 (Advisor: [Prof. Yansong Duan](https://jszy.whu.edu.cn/duanyansong/en/index.htm)). If you are interested in my work or would like to collaborate, I would be glad to hear from you—please feel free to [contact me](#contact).
 
 ## Research Interests
 
