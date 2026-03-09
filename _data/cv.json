@@ -32,10 +32,10 @@
       "position": "Updating the Emission Data from 2020 to 2021 of GEMS (Global Emission Modeling System)",
       "startDate": "Dec. 2023",
       "endDate": "Jun. 2024",
-      "summary": "Familiar with the bottom-up method to compile emission inventory. Emission estimation data was calculated as products of source strength and Emission Factors (EFs), with 225 countries, 9 sectors, 146 sources, and 49 pollutants.",
+      "summary": "Though this project, I am familiar with the bottom-up method to compile emission inventory. Emission estimation data was calculated as products of source strength and Emission Factors (EFs), with 225 countries, 9 sectors, 146 sources, and 49 pollutants.",
       "highlights": [
-        "Estimated EFs and emissions by country, used Monte Carlo simulation to represent uncertainty.",
-        "Conducted spatial interpolation of emission data to generate open-source files with 0.1° resolution in both latitude and longitude."
+        "I Estimated EFs and emissions by country, used Monte Carlo simulation to represent uncertainty.",
+        "I Conducted spatial interpolation of emission data to generate open-source files with 0.1° resolution in both latitude and longitude."
       ]
     },
     {
@@ -43,10 +43,10 @@
       "position": "The Key Technologies of Geological Disaster Dynamic Monitoring Based on Nap-of-the-object Photogrammetry",
       "startDate": "Jul. 2021",
       "endDate": "Oct. 2022",
-      "summary": "Reconstructed detailed fine 3D real scene model based on multi-period nap-of-the-object photogrammetry. Detected deformation of geological hazards based on 3D model differential analysis.",
+      "summary": "Though this project, I reconstructed detailed fine 3D real scene model based on multi-period nap-of-the-object photogrammetry. Detected deformation of geological hazards based on 3D model differential analysis.",
       "highlights": [
-        "Proposed a fast and simple method to locate severely deformed areas caused by collapse and landslide hazards.",
-        "Produced high-resolution generalized orthophotos and calculated precise displacement of deformation by feature matching. This work formed the basis of undergraduate thesis and resulted in a conference publication."
+        "I Proposed a fast and simple method to locate severely deformed areas caused by collapse and landslide hazards.",
+        "I Produced high-resolution generalized orthophotos and calculated precise displacement of deformation by feature matching. This work formed the basis of undergraduate thesis and resulted in a conference publication."
       ]
     },
     {
@@ -54,24 +54,30 @@
       "position": "Innovation Practice and Youth Development Office | Head of Office",
       "startDate": "Sep. 2019",
       "endDate": "Jun. 2020",
-      "summary": "Organized registration and training for the Winter & Summer Social Practice programs. Developed Cloud Laboratory program during the pandemic, delivering online lectures on cutting-edge research topics.",
-      "highlights": []
+      "summary": "",
+      "highlights": [
+        "I Organized registration and training for the Winter & Summer Social Practice programs.",
+        "I Developed Cloud Laboratory program during the pandemic, delivering online lectures on cutting-edge research topics."]
     },
     {
       "company": "School of Remote Sensing and Information Engineering, Wuhan University",
       "position": "Innovation Practice and Youth Development Office | Staff Member",
       "startDate": "Sep. 2018",
       "endDate": "Jun. 2019",
-      "summary": "Organized Explore the Laboratory program for freshmen and sophomores. Collected research projects from all professors and published Research Handbook.",
-      "highlights": []
+      "summary": "",
+      "highlights": [
+        "I Organized Explore the Laboratory program for freshmen and sophomores.",
+        "I Collected research projects from all professors and published Research Handbook."]
     },
     {
       "company": "2018 International Workshop on Big Geospatial Data and Data Science, Wuhan, China",
       "position": "Volunteer",
       "startDate": "Aug. 2018",
       "endDate": "Aug. 2018",
-      "summary": "Designed and placed directional signage; assisted with reception and guided tours, prepared materials, and addressed basic infrastructure-related inquiries.",
-      "highlights": []
+      "summary": "",
+      "highlights": [
+        "I Designed and placed directional signage;",
+        "I Assisted with reception and guided tours, prepared materials, and addressed basic infrastructure-related inquiries."]
     }
   ],
   "education": [
