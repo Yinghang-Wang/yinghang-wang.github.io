@@ -15,7 +15,7 @@ If you are interested in my work or would like to collaborate, I would be glad t
 
 ## Academic Background
 
-- **Sept. 2023 – Jun. 2026(Expected):** Peking University (Master of Environmental Sciences, supervised by [Prof. Shu Tao](https://ues.pku.edu.cn/Home/Teacher_Home/Shu_Tao/6ae0f9de8653422fa886f6cde9e65950.htm))
+- **Sept. 2023 – Jun. 2026 (Expected):** Peking University (Master of Environmental Sciences, supervised by [Prof. Shu Tao](https://ues.pku.edu.cn/Home/Teacher_Home/Shu_Tao/6ae0f9de8653422fa886f6cde9e65950.htm))
 - **Sept. 2018 – Jun. 2022:** Wuhan University (Bachelor of Remote Sensing Science and Technology, supervised by [Prof. Yansong Duan](https://jszy.whu.edu.cn/duanyansong/en/index.htm))
 
 ## Research Interests
