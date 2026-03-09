@@ -74,6 +74,17 @@
   }
 }
 
+/* Publications: image below title, full width, large display */
+.list__item .archive__item-teaser--below-title {
+  width: 100%;
+  margin-bottom: 0.75em;
+
+  img {
+    width: 100%;
+    display: block;
+  }
+}
+
 .archive__item:hover {
   .archive__item-teaser {
     box-shadow: 0 0 10px rgba(#000, 0.25);
