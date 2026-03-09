@@ -10,6 +10,7 @@ redirect_from:
 Hi, I'm **Yinghang Wang**. Welcome to my homepage.
 
 I am an **M.S. candidate** in Environmental Sciences at **Peking University** and received my B.E. in Remote Sensing Science and Technology from **Wuhan University** in 2022. I have an **interdisciplinary** background and am very interested in environmental modelling, GIS, LLMs, and remote sensing!
+
 If you are interested in my work or would like to collaborate, I would be glad to hear from you—please feel free to [contact me](#contact).
 
 ## Academic Background
